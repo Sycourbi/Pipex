@@ -19,4 +19,9 @@ Pour installer le projet Pipex, suivez ces étapes :
    ```bash
    git clone https://github.com/Sycourbi/Pipex.git
    cd Pipex
-  ```
+   make```
+   
+2. Bonus :
+  ```bash
+  make bonus ```
+

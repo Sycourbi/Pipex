@@ -7,7 +7,7 @@ Bienvenue sur le dépôt du projet Pipex de l'École 42. Ce projet consiste à r
 ## Badge et Note Obtenu
 
 <div align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png?raw=true" alt="Badge du projet ft_printf">
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png?raw=true" alt="Badge du projet pipex">
 </div>
 
 ## Fonctionnalités

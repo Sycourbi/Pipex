@@ -10,7 +10,17 @@ Bienvenue sur le dépôt du projet Pipex de l'École 42. Ce projet consiste à r
   <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png?raw=true" alt="Badge du projet ft_printf">
 </div>
 
-## Installation
+## Fonctionnalités
+
+  - Permet d'exécuter deux commandes ou plus (bonus) en utilisant pipe et redirection.
+  - Gère les entrées et les sorties de fichiers correctement.
+   - Bonus : Gestion des flags <, >, >> pour les redirections de fichier.
+
+## Exigences du Projet
+
+Ce projet doit respecter les normes de l'École 42, y compris la norme de codage et les règles spécifiques définies pour le projet.
+
+## Installation et Utilisation
 
 Pour installer le projet Pipex, suivez ces étapes :
 
@@ -24,4 +34,8 @@ Pour installer le projet Pipex, suivez ces étapes :
 2. Bonus :
   ```bash
   make bonus
+```
+3. Lancer le programme :
+   ```bash
+   ./pipex file1 "ls -l" "wc -l" file2
 

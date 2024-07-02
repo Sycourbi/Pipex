@@ -32,10 +32,12 @@ Pour installer le projet Pipex, suivez ces étapes :
    make
    
 2. Bonus :
+   
   ```bash
-  make bonus
-```
+    make bonus
+  ```
 3. Lancer le programme :
+   
    ```bash
    ./pipex file1 "ls -l" "wc -l" file2
 

@@ -6,6 +6,8 @@
 ![Multi-Pipes](https://img.shields.io/badge/multi--pipes-yes-orange)
 ![Output Management](https://img.shields.io/badge/output%20management-yes-blue)
 ![Shell](https://img.shields.io/badge/shell-implementation-yellow)
+![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
 
 ## Description
 

@@ -1,5 +1,12 @@
 # Pipex
 
+![C Language](https://img.shields.io/badge/language-C-blue)
+![Pipes](https://img.shields.io/badge/pipes-implemented-yellowgreen)
+![File Descriptors](https://img.shields.io/badge/file%20descriptors-yes-brightgreen)
+![Multi-Pipes](https://img.shields.io/badge/multi--pipes-yes-orange)
+![Output Management](https://img.shields.io/badge/output%20management-yes-blue)
+![Shell](https://img.shields.io/badge/shell-implementation-yellow)
+
 ## Description
 
 Bienvenue sur le dépôt du projet Pipex de l'École 42. Ce projet consiste à recréer le comportement de deux appels système très courants dans le monde Unix : `pipe` et `redirection`. L'objectif est de comprendre comment fonctionnent ces deux appels système et comment ils peuvent être utilisés pour construire un pipeline simple entre deux commandes.
